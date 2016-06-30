@@ -1,0 +1,17 @@
+{
+  "name": "dzenkiedo/sscout-upl-lib",
+  "description": "Test work library for sscout",
+  "version": "0.0.1",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+        "name": "Polyn Vasily",
+      "email": "inglorsan@gmail.com"
+    }
+  ],
+  "source": {
+    "url": "https://github.com/dzenkiedo/sscout-upl-lib",
+      "type": "vcs"
+    }
+}
