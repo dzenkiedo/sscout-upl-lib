@@ -15,4 +15,7 @@
     "url": "https://github.com/dzenkiedo/sscout-upl-lib",
     "reference": "master"
   }
+  "require": {
+    "symfony/symfony": "2.8.*"
+  }
 }
