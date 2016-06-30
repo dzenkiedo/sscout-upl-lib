@@ -6,12 +6,12 @@
   "license": "MIT",
   "authors": [
     {
-        "name": "Polyn Vasily",
+      "name": "Polyn Vasily",
       "email": "inglorsan@gmail.com"
     }
   ],
   "source": {
-    "url": "https://github.com/dzenkiedo/sscout-upl-lib",
-      "type": "vcs"
-    }
+    "type": "vcs",
+    "url": "https://github.com/dzenkiedo/sscout-upl-lib"
+  }
 }
