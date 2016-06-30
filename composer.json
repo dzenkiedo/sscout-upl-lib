@@ -11,7 +11,7 @@
     }
   ],
   "source": {
-    "type": "vcs",
+    "type": "git",
     "url": "https://github.com/dzenkiedo/sscout-upl-lib",
     "reference": "master"
   },
